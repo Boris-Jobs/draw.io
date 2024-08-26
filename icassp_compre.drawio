@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="nYdEi7tRaGVO8EPhUYh8">
-    <mxGraphModel dx="978" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="938" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
         <mxCell id="d_G1SXAvkjPeiIFeZebY-37" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;$$\text{Modality} \ m$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="24.85000000000001" y="220" width="75.15" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d_G1SXAvkjPeiIFeZebY-38" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="d_G1SXAvkjPeiIFeZebY-38" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d_G1SXAvkjPeiIFeZebY-39" value="$$P_1$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -106,13 +106,13 @@
         <mxCell id="d_G1SXAvkjPeiIFeZebY-44" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;...&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="310" y="287" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d_G1SXAvkjPeiIFeZebY-45" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="d_G1SXAvkjPeiIFeZebY-45" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="460" y="50" width="40" height="230" as="geometry" />
         </mxCell>
         <mxCell id="d_G1SXAvkjPeiIFeZebY-46" value="MSP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="449.5" y="51" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d_G1SXAvkjPeiIFeZebY-47" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="d_G1SXAvkjPeiIFeZebY-47" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="510.5" y="50" width="59.5" height="230" as="geometry" />
         </mxCell>
         <mxCell id="d_G1SXAvkjPeiIFeZebY-48" value="Ours" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" vertex="1" parent="1">
